@@ -1,0 +1,15 @@
+Ansys Lumerical 2023 R2.2 Heat Transport Solver Version 7.12.3536 (Windows 64bit)
+ expires (month/day/year): 5/19/2024
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 1055@ls-ansys.bristol.ac.uk
+current time: Mon Feb 19 03:03:30 2024
+Running on host: LAPTOP-9I2NMQSF
+Running ldev file: C:\Program Files\Lumerical\v232\bin\thermal-engine-msmpi.exe C:/Users/User/Documents/GitHub/MScQuantumNanoFab/LumericalProjects/Thermooptic_Effect/waveguide_sensor_heater.ldev -remote -mesh-only -shared-solve-license QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT08QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT48SUQ+ZTFjOTExNGMtOGU0OS00ZGU3LTgzZWMtM2VmMDE3OWZmMDMyPC9JRD48VFlQRT5BUFBfREVGSU5FRDwvVFlQRT48TkFNRT5sdW1fc3RhbmRhcmRfc29sdmVfc2hhcmU8L05BTUU+PEhBTkRMRVI+NTk2OTBATEFQVE9QLTlJMk5NUVNGPC9IQU5ETEVSPjwvQU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT4K
+  ...C:/Users/User/Documents/GitHub/MScQuantumNanoFab/LumericalProjects/Thermooptic_Effect/waveguide_sensor_heater.ldev loaded
+Mesh generation only (mesh-only argument) set to true.
+Remote execution (remote argument) set to true.
+Generating mesh.
+Mesh generation complete (0s)
+  + vertices: 549
+  + elements: 1042
+All processes are communicating and ready to proceed to simulation...
